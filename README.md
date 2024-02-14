@@ -39,7 +39,7 @@ Technologies and tools that were used in the development of the project:
 - [Tailwind CSS](https://tailwindcss.com/)
 - [NativeWind](https://www.nativewind.dev/)
 - [Zustand](https://zustand-demo.pmnd.rs/)
-- [CLSX](hhttps://github.com/lukeed/clsx)
+- [CLSX](https://github.com/lukeed/clsx)
 
 ### **Utilities**
 
